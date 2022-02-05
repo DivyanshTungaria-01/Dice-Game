@@ -4,11 +4,7 @@ body {
     background-color: #393E46;
     text-align: center;
     background-image: url(images/pic2.jpg);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
-
 }
 
 .heading {
@@ -82,14 +78,12 @@ img {
     background-image: linear-gradient(to bottom right, #42275a,#734b6d);
     color: aliceblue;
     border-radius: 1rem;
-    /* border: 2px solid #FFDEAD; */
     box-shadow: 0px 0px 50px 20px #1e847f;
     padding: 0.5rem;
 }
 
 .footer p{
     font-size: 1.2rem;
-    /* margin-top: 6rem; */
     color: white;
     font-family:'Indie Flower', cursive;
 }
